@@ -2,7 +2,7 @@
 
 A small IPv4 subnet calculator for the terminal (and a simple window, with `--gui`). Give it an address with a prefix or a mask, and it shows everything you need for planning a network or checking an exam answer.
 
-Part of my networking labs: [ping and traceroute](https://github.com/yaseenselemane/ping-and-traceroute) · [nmap](https://github.com/yaseenselemane/nmap-field-notes) · [WiFi survey](https://github.com/yaseenselemane/wifi-survey) · [Packet Tracer](https://github.com/yaseenselemane/cisco-packet-tracer-labs) · **subnet calculator** · [vantage](https://github.com/yaseenselemane/vantage)
+Part of my networking labs: [ping and traceroute](https://github.com/yaseenselemane/ping-and-traceroute) · [nmap](https://github.com/yaseenselemane/nmap-field-notes) · [WiFi survey](https://github.com/yaseenselemane/wifi-survey) · [Wireshark](https://github.com/yaseenselemane/wireshark-packet-lab) · [Packet Tracer](https://github.com/yaseenselemane/cisco-packet-tracer-labs) · **subnet calculator** · [vantage](https://github.com/yaseenselemane/vantage)
 
 ## Run it
 
